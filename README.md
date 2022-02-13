@@ -1,4 +1,4 @@
-# flutter_siakad_university
+# flutter_ecampus_university
 
 A new Flutter project.
 
