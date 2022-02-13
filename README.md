@@ -1,5 +1,11 @@
 # flutter_ecampus_university
 
+Develope by : Fly Morph Studio 
+
+Design UI by : Mada Okty Dea Pratama
+
+# Screenshot Project :
+
 [![Screenshot-1644721607.png](https://i.postimg.cc/mgrvzC1z/Screenshot-1644721607.png)](https://postimg.cc/nC6RNskp)  [![Screenshot-1644721597.png](https://i.postimg.cc/mDMfZ4zm/Screenshot-1644721597.png)](https://postimg.cc/47JFwr1c)
 
 A new Flutter project.
