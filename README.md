@@ -8,6 +8,8 @@ Design UI by : Mada Okty Dea Pratama
 
 [![Screenshot-1644721607.png](https://i.postimg.cc/mgrvzC1z/Screenshot-1644721607.png)](https://postimg.cc/nC6RNskp)  [![Screenshot-1644721597.png](https://i.postimg.cc/mDMfZ4zm/Screenshot-1644721597.png)](https://postimg.cc/47JFwr1c)
 
+Font use in this App Concept : [fonts.google.com](https://fonts.google.com/specimen/Rowdies?preview.size=38&query=rowdies) & [fonts.google.com](https://fonts.google.com/specimen/Source+Serif+Pro?preview.size=38&query=source+serif)
+
 A new Flutter project.
 
 ## Getting Started
